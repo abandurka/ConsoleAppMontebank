@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppMontebank", "ConsoleAppMontebank\ConsoleAppMontebank.csproj", "{AD349CCB-8682-4545-87F0-1A24FA43A09B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD349CCB-8682-4545-87F0-1A24FA43A09B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD349CCB-8682-4545-87F0-1A24FA43A09B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD349CCB-8682-4545-87F0-1A24FA43A09B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD349CCB-8682-4545-87F0-1A24FA43A09B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22686248-07CD-4DA4-96F6-50A30774ACF5}
+	EndGlobalSection
+EndGlobal
